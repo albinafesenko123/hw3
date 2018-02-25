@@ -1,6 +1,6 @@
 # hw3
 
-- ссылка на опрос в гугл форму
+https://docs.google.com/forms/d/e/1FAIpQLScYv3JF8v4lcl8tueOa7pEI-XUfqytlYXdQu6PZuXltxYy0SQ/viewform?usp=sf_link - ссылка на опрос в гугл форму
 
 https://docs.google.com/spreadsheets/d/1AVFya0KHZX8lwWeRq8o-ntpDiE0uQdjazkcox7NNEQc/edit?usp=sharing - ссылка на таблицу
 
